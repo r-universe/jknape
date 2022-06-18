@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nmixgof"]
+	path = nmixgof
+	url = https://github.com/jknape/nmixgof
+	shallow = true
+	registered = true
+[submodule "poptrend"]
+	path = poptrend
+	url = https://github.com/jknape/poptrend
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nmixgof",
+    "oncran": true
+  },
+  {
+    "package": "poptrend",
+    "oncran": true
+  }
+]
